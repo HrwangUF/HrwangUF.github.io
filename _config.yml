@@ -83,10 +83,10 @@ author:
   name             : "Haoran Wang"
   avatar           : "Headshot (6).JPG"
   bio              : "Ph.D., University of Florida"
-  location         : "disabled"
+ # location         : "Gainesville, FL, USA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=eHXFuB0AAAAJ&hl=en&authuser=1"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
