@@ -83,7 +83,7 @@ author:
   name             : "Haoran Wang"
   avatar           : "Haoran Wang.jpg"
   bio              : "Ph.D., University of Florida"
- location         : "Gainesville, FLorida, USA"
+ location          : "Gainesville, FLorida, USA"
   employer         :
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=eHXFuB0AAAAJ&hl=en&authuser=1"
@@ -110,6 +110,7 @@ author:
   steam            :
   tumblr           :
   twitter          : "replacethistwitterhandle"
+  vine             : 
   weibo            :
   xing             :
   youtube          :
